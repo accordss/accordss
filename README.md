@@ -1,146 +1,93 @@
 <!--
   ============================================================
-  README de PERFIL de GitHub
-  Cómo usarlo:
-  1. Crea un repositorio PÚBLICO cuyo nombre sea EXACTAMENTE tu usuario
-     (ej. si tu usuario es "pedro-ds", el repo se llama "pedro-ds").
-  2. Dentro de ese repo, este archivo debe llamarse README.md.
-  3. Reemplaza TODOS los placeholders (TU_USUARIO, TU NOMBRE, enlaces...).
-  4. Haz commit -> se muestra automáticamente en tu perfil.
+  GitHub PROFILE README
+  How to use it:
+  1. Create a PUBLIC repo named EXACTLY like your username
+     (e.g. if your username is "pedro-hs", the repo is "pedro-hs").
+  2. Inside that repo, this file must be named README.md.
+  3. Replace YOUR_USERNAME, YOUR_LINKEDIN and YOUR_EMAIL with your data.
+  4. Commit -> it shows up automatically on your profile.
 
-  Nota: GitHub NO admite <style>, CSS ni <script>. Solo el HTML de esta
-  plantilla (div align, img, a, table, picture, details) se renderiza.
+  Note: GitHub does NOT support <style>, CSS or <script>. Only the HTML
+  in this template (div align, img, a, table, details) will render.
   ============================================================
 -->
 
 <div align="center">
 
-<!-- Título animado (opcional). Servicio de terceros; si prefieres, bórralo. -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&width=520&lines=Hola%2C+soy+Pedro+Huaman+%F0%9F%91%8B;Data+Scientist+en+formaci%C3%B3n;De+la+exploraci%C3%B3n+al+despliegue" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2E9BF5&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Pedro+Huaman+%F0%9F%91%8B;Data+Analyst+at+Yape+(BCP+Group);Heading+toward+remote+Data+Science" alt="typing banner" />
 
-### Data Scientist · Python · Machine Learning · De los datos al producto desplegado
+### Data Analyst @ Yape (BCP Group) · Systems Information Engineering, UPC
 
-Construyendo un portafolio de **12 proyectos end-to-end** (6 meses), siguiendo **CRISP-DM**,
-donde cada modelo se puede **probar en vivo desde el navegador**.
-
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:TU_CORREO@ejemplo.com">
+<a href="mailto:YOUR_EMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="TU_PORTAFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
 </a>
 
 </div>
 
 ---
 
-## 🧭 Sobre mí
+## 🧭 About me
 
-- 🔭 Estoy construyendo un **portafolio de Data Science** enfocado en proyectos reales y desplegados.
-- 🌱 Actualmente trabajando en **EDA + dashboards interactivos** y afianzando ML clásico.
-- 🧪 Cada proyecto sigue **CRISP-DM**: problema de negocio → datos → modelo → **demo pública**.
-- 🇵🇪 Basado en Perú · abierto a oportunidades remotas.
-- 💬 Pregúntame sobre: análisis de datos, visualización, scikit-learn, Streamlit.
+- 💼 Currently a **Data Analyst Intern at Yape (BCP Group)**, building authentication-flow monitoring dashboards in **Sigma Computing** and **Power BI**.
+- 🎓 **Systems Information Engineering** student at UPC — top 5% of my cohort, Antapaccay Academic Excellence Scholarship holder.
+- 🧠 Finishing up my thesis: **SESA-DL**, a hybrid deep learning model (S-CNN-LSTM + Bayesian Optimization + Expectation-Maximization) for stock distortion prediction in textile MYPEs.
+- 🎯 Mid-term goal: a remote **Data Analyst / Data Scientist** role with a US-based company.
+- 📍 Based in Lima, Peru.
 
 ---
 
 ## 🛠️ Stack
 
-**Lenguajes y análisis**
+**Data & analysis**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Machine Learning y visualización**
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-**Despliegue y herramientas**
+**Visualization & BI**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Sigma Computing](https://img.shields.io/badge/Sigma%20Computing-6A5ACD?style=flat-square&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<sub>📚 Aprendiendo:
+<sub>📚 Currently deepening: 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 </sub>
 
 ---
 
-## 🚀 Proyecto destacado
+## 🔍 What I'm working on right now
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🏠 Airbnb — EDA + Dashboard interactivo</h3>
-      <p>
-        Análisis exploratorio de anuncios de Airbnb y dashboard con filtros, KPIs,
-        insights por barrio y mapa geográfico. Un recorrido completo de
-        <b>pregunta → hipótesis → visual → hallazgo → "y qué"</b>.
-      </p>
-      <p>
-        <b>Stack:</b> Python · pandas · Streamlit · Plotly &nbsp;|&nbsp; <b>Estado:</b> 🚧 En progreso
-      </p>
-      <a href="https://github.com/TU_USUARIO/NOMBRE_DEL_REPO">
-        <img src="https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white" alt="código" />
-      </a>
-      <a href="TU_DEMO_URL">
-        <img src="https://img.shields.io/badge/Probar%20demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="demo" />
-      </a>
-    </td>
-  </tr>
-</table>
+I don't have a "flagship project" to show off yet — and I'd rather this profile say that honestly than inflate it. What I can share is what I'm actually into these days:
 
-<details>
-<summary>📋 <b>Ver el roadmap completo (12 proyectos)</b></summary>
-
-<br>
-
-| # | Proyecto | Área | Estado |
-|---|----------|------|--------|
-| 1 | EDA + Dashboard de storytelling | Fundamentos | 🚧 En progreso |
-| 2 | Regresión — predicción de precios | Fundamentos | 📋 Planeado |
-| 3 | Clasificación — churn / riesgo crediticio | ML clásico | 📋 Planeado |
-| 4 | Clustering — segmentación de clientes | ML clásico | 📋 Planeado |
-| 5 | Series temporales — forecasting | Dominios | 📋 Planeado |
-| 6 | NLP — análisis de sentimiento | Dominios | 📋 Planeado |
-| 7 | Computer Vision — clasificación de imágenes | Dominios | 📋 Planeado |
-| 8 | Sistema de recomendación | Dominios | 📋 Planeado |
-| 9 | Pipeline ML end-to-end (MLOps) | Ingeniería | 📋 Planeado |
-| 10 | App de LLM / RAG | Frontera | 📋 Planeado |
-| 11 | Data engineering — pipeline de datos | Ingeniería | 📋 Planeado |
-| 12 | Capstone integrador | Frontera | 📋 Planeado |
-
-</details>
+- Wrapping up the defense of **SESA-DL**, my thesis on stock distortion prediction using deep learning applied to textile MYPEs in Gamarra.
+- At Yape, working with real authentication data to build dashboards the team uses daily.
+- Practicing model benchmarking (compared 8 classification algorithms on a real problem; LightGBM came out on top with ROC-AUC ~75%).
+- Getting my next public repos in shape so they reflect finished work, not just attempts.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&theme=tokyonight" alt="streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>💡 Portafolio en construcción — mejor pocos proyectos excelentes que muchos mediocres.</sub>
+<sub>Profile under construction, like everything else — just with fewer placeholders each time.</sub>
 </div>
